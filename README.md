@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sdrawkcaBemaN
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning (JS, HTML, CSS)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in anime girls
+- 🌱 I’m currently learning mathematics and physics
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me: give me chips
 
 <!---
 sdrawkcaBemaN/sdrawkcaBemaN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
